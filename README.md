@@ -1,3 +1,3 @@
 # iphone15website
 
-(assest/screenshot1.png)
+(../assest/screenshot1.png)
