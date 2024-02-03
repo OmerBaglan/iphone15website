@@ -6,4 +6,5 @@ url:https://lighthearted-naiad-dd684b.netlify.app/
 
 ![screenshot3](https://github.com/OmerBaglan/iphone15website/assets/151846621/11b040fd-e052-4df5-b7bf-528f463c85e2)
 
-![screenshot2](https://github.com/OmerBaglan/iphone15website/assets/151846621/037739fa-5d7c-476b-a784-03a97955c872)
+![screenshot4](https://github.com/OmerBaglan/iphone15website/assets/151846621/af0de381-915f-4458-9955-e16468af2132)
+
